@@ -1,0 +1,90 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical"
+              xmlns:app="http://schemas.android.com/apk/res-auto"
+
+              tools:context=".MainActivity">
+
+    <!--  <LinearLayout
+          android:layout_width="match_parent"
+          android:layout_height="match_parent"
+          android:layout_weight=".9"
+          android:orientation="horizontal"
+          >
+
+          <EditText
+              android:id="@+id/editText"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:layout_weight=".3"/>
+
+          <Button
+              android:id="@+id/button"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:layout_weight=".8"
+              android:text="Go"/>
+
+      </LinearLayout>
+  -->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight=".1"
+        >
+
+        <WebView
+            android:id="@+id/webView"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"/>
+    </LinearLayout>
+<!--
+    <LinearLayout
+        android:id="@+id/progressbarlayout"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:gravity="center"
+        android:background="@android:color/transparent"
+        android:orientation="vertical"
+        >
+
+        <ProgressBar
+            android:id="@+id/progressBar"
+            style="@android:style/Widget.ProgressBar.Large"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+    </LinearLayout>-->
+
+    <!--<ProgressBar
+        style="@android:style/Widget.ProgressBar.Large"
+        android:id="@+id/progressBar"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_centerInParent="true"
+        android:layout_centerHorizontal="true" />-->
+    <com.trncic.library.DottedProgressBar
+        android:id="@+id/progress"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:padding="30dp"
+        app:activeDot="@drawable/active_dot"
+        app:dotSize="29dp"
+        android:layout_centerInParent="true"
+        android:layout_centerHorizontal="true"
+        app:inactiveDot="@drawable/inactive_dot"
+        app:jumpingSpeed="670"
+
+        app:spacing="15dp" />
+   <!-- <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:id="@+id/imageView"
+        android:src="@drawable/ashford_logo"
+
+        android:layout_centerInParent="true"
+        android:layout_centerHorizontal="true"/>-->
+
+</RelativeLayout>

@@ -1,0 +1,11 @@
+E:\WorkspaceMobifly\Ashford\app\build\intermediates\classes\debug
+E:\WorkspaceMobifly\Ashford\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1-e2c2c47617ef6f9877c3a6b04a02f944c23b97bf.jar
+E:\WorkspaceMobifly\Ashford\app\build\intermediates\pre-dexed\debug\classes-6da0cad9ec2bd923788cab0799f6fc38f18f77ee.jar
+E:\WorkspaceMobifly\Ashford\app\build\intermediates\pre-dexed\debug\classes-87e27bd05d39b3b337fbe7faefcf101ae38f1561.jar
+E:\WorkspaceMobifly\Ashford\app\build\intermediates\pre-dexed\debug\classes-8725954ea824f93b5142f9fa1b7f6d692fba9185.jar
+E:\WorkspaceMobifly\Ashford\app\build\intermediates\pre-dexed\debug\classes-80b4865e088956a750115b09c378b1f3e7ba4495.jar
+E:\WorkspaceMobifly\Ashford\app\build\intermediates\pre-dexed\debug\classes-d4d8ac007d8dff405805e8e9b79ce6ffe8edf0c5.jar
+E:\WorkspaceMobifly\Ashford\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-fb9bec3901f18ea5d00a54c8290a92adc2f1a5b9.jar
+E:\WorkspaceMobifly\Ashford\app\build\intermediates\pre-dexed\debug\classes-93a0cf39526245f1e64513ee33d237e1c112016e.jar
+E:\WorkspaceMobifly\Ashford\app\build\intermediates\pre-dexed\debug\classes-b9dbb48af86071e8060fbbcd95a2fe0a247ae172.jar
+E:\WorkspaceMobifly\Ashford\app\build\intermediates\pre-dexed\debug\classes-fc41e98f87c0a4533722ffb0b17b60824cc2fac8.jar

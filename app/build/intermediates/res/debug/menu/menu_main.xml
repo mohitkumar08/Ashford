@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      xmlns:android="http://schemas.android.com/apk/res/android"
+      tools:context=".MainActivity">
+    <!--<item
+        android:id="@+id/goBack"
+        android:icon="@android:drawable/ic_media_previous"
+        app:showAsAction="ifRoom|withText"
+        android:title="goBack"/>
+    <item
+        android:id="@+id/goForward"
+        android:icon="@android:drawable/ic_media_next"
+        app:showAsAction="ifRoom|withText"
+        android:title="goForward"/>-->
+
+    <item
+        android:id="@+id/refresh"
+        android:icon="@android:drawable/ic_popup_sync"
+        app:showAsAction="ifRoom|withText"
+        android:title="goForward"/>-->
+    <item
+        android:id="@+id/exit"
+        android:icon="@android:drawable/ic_menu_close_clear_cancel"
+        app:showAsAction="ifRoom|withText"
+        android:title="Exit"/>
+
+</menu>
+<!-- From: file:/E:/WorkspaceMobifly/Ashford/app/src/main/res/menu/menu_main.xml -->
